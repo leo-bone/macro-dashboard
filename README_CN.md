@@ -1,6 +1,6 @@
 # macro-dashboard
 
-*[English](./README.md) | 中文*
+> [English](./README.md) · **简体中文** · [站点](https://leo.uichain.org/)
 
 > 每周刷新四个驱动变量（利率 / 信用 / 盈利预期 / 流动性），输出"攻守开关"而非点位预测。
 > 把"仓位由最坏情况倒推"的纪律变成可周更的仪表盘——自上而下开关层。
